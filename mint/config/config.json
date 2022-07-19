@@ -7,13 +7,13 @@
     "SYMBOL": "MATIC",
     "ID": 137
   },
-  "NFT_NAME": "cobaa",
-  "SYMBOL": "COBAA",
+  "NFT_NAME": "Baby Octopus Club",
+  "SYMBOL": "BOCC",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 30000000000,
   "DISPLAY_COST": 10,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/cobaa",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/baby-octopus-club",
   "SHOW_BACKGROUND": true
 }
